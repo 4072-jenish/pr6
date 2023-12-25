@@ -4,7 +4,13 @@ Input:
 Enter any string: nayan
 
 Output:
-Given string is a Palindrome.*/
+Given string is a Palindrome.
+For example,
+Input:
+Enter any string: hello
+
+Output:
+Given string is not a Palindrome.*/
 
 #include<stdio.h>
 #include<string.h>
