@@ -1,3 +1,11 @@
+/*Q.1 Write a Program to check whether a string is a palindrome or not without using string functions.
+For example,
+Input:
+Enter any string: nayan
+
+Output:
+Given string is a Palindrome.*/
+
 #include<stdio.h>
 #include<string.h>
 void main(){
